@@ -44,11 +44,13 @@ Grupo:
 Egressados
 
 ---
-main
-https://ujes-avaliacao-institucional.yelela.net/login
-
 Link:
 https://ujes-avaliacao-institucional.yelela.net/participar/egr
 
 Como entra:
 Escolhe a Unidade Orgânica
+
+
+---
+main
+https://ujes-avaliacao-institucional.yelela.net/login
