@@ -43,6 +43,10 @@ Número do BI
 Grupo:
 Egressados
 
+---
+main
+https://ujes-avaliacao-institucional.yelela.net/login
+
 Link:
 https://ujes-avaliacao-institucional.yelela.net/participar/egr
 
